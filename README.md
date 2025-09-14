@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **monishrsp11@gmail.com**
 
-<p align="left">Connect with me:https://www.linkedin.com/in/v-r-monish-raman/</p>
+-  <p align="left">Connect with me: https://www.linkedin.com/in/v-r-monish-raman/</p>
 <p align="left">
 </p>
 
