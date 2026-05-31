@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monish Raman Vishakraman</h1>
-<h3 align="center">Founding AI Engineer @ Incluya | MS Computer Eng. @ NYU</h3>
+<h3 align="center">AI Intern@Blood & Treasure | Founding AI Engineer @ Incluya | MS Computer Eng. @ NYU</h3>
 
 - 👨‍💻 All of my projects are available at [https://monishraman.vercel.app/](https://monishraman.vercel.app/)
 
